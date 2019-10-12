@@ -5,4 +5,4 @@ Git tracks changes of files.
 boss
 Creating a new branch is dev.
 Creating a new btanch is qucok and simple.
-
+test merge by --no-off
