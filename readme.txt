@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 boss
 Creating a new branch is dev.
-Creating a new btanch is qucok @ simple.
+Creating a new btanch is qucok and simple.
+
