@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 boss
 Creating a new branch is dev.
+test2
