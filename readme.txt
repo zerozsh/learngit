@@ -6,4 +6,4 @@ boss
 Creating a new branch is dev.
 Creating a new btanch is qucok and simple.
 test merge by --no-off
-test Bug erro.
+test Bug erro. ok
